@@ -1,0 +1,6 @@
+{
+    "name": "api-platform/admin-meta",
+    "type": "metapackage",
+    "license": "MIT",
+    "description": "A meta package to install API Platform Admin in Symfony projects"
+}
